@@ -1,0 +1,40 @@
+*{
+    margin: auto;
+    height: 100vh;
+}
+
+.navBar{
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container{
+    height: 85%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.circle{
+    background-color: grey;
+    height: 100px;
+    width: 100px;   
+    border-radius: 360px;
+}
+
+h2{
+    height: auto;
+    width: auto;   
+}
+
+h3{
+    height: auto;
+    width: auto;
+}
+
+.button{
+    height: auto;
+    width: auto;
+}
